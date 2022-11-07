@@ -1,0 +1,18 @@
+body {
+    display: block;
+    background: url(/static/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* Full height */
+    height: 100%;
+    width: 100%;
+   }
+
+.login-form-section {
+    width: 100%;
+    height: 100%;
+}
+
+.login-form-section form {
+    width: 50%;
+}
